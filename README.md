@@ -5,4 +5,4 @@ Skript to add various machines and new energies. Have a more comfortable Minecra
 
 👉 Do you need support? Go to [Official Discord](https://discord.gg/zZjZBEHgt4)
 
-✖ SORRY, I developing this system HIGHLY. so plz wait for first release! ✖
+❗ Currently I am **seriously** working on creating this system. So please wait a while for the *first release*!! ❗
